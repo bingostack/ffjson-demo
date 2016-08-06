@@ -1,0 +1,15 @@
+{
+	"ImportPath": "xstackeye/ffjson-demo",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v72",
+	"Deps": [
+		{
+			"ImportPath": "github.com/pquerna/ffjson/fflib/v1",
+			"Rev": "a16f62ecdaf7d13077d64d3cdb1cc43486119809"
+		},
+		{
+			"ImportPath": "github.com/pquerna/ffjson/fflib/v1/internal",
+			"Rev": "a16f62ecdaf7d13077d64d3cdb1cc43486119809"
+		}
+	]
+}
